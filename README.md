@@ -15,6 +15,11 @@ this is meant to be a one stop shop for a v-tuber application with the following
 
 ## v1 to-do list:
 
+[ ] - general
+
+<!-- prettier-ignore -->
+    [ ] - add a getting started section
+
 [ ] - audio
 
 <!-- prettier-ignore -->
