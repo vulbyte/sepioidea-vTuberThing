@@ -60,7 +60,8 @@
         "height": 512,
         "resizable": true,
         "title": "display sepioidea",
-        "width": 512
+        "width": 512,
+        "url": "./display/"
       },
       {
         "label": "settings",
@@ -68,7 +69,8 @@
         "height": 600,
         "resizable": true,
         "title": "settings sepioidea",
-        "width": 800
+        "width": 800,
+        "url": "./settings/"
       }
     ]
   }

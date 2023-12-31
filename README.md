@@ -3,13 +3,11 @@
 this is meant to be a one stop shop for a v-tuber application with the following goals in mind: <br>
 
 1. being 1 "do it all" application.
-2. supporting 2d images and 3d poses
-3. being more dynamic and scalable.
-4. no dependancies on external softwares outside of obs
-5. cross platform (Linux, MacOs, and Windows for those who don't have taste)
-6. multi-user ease
-7. easy to switch between multiple systems
-8. break immersion as little as possible
+2. being more dynamic and scalable.
+3. no dependancies on external softwares outside of obs
+4. cross platform (Linux, MacOs, and Windows for those who don't have taste)
+5. easy to switch between multiple systems
+6. break immersion as little as possible
 
 <br>
 
